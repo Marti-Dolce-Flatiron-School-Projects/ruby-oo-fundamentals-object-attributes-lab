@@ -26,4 +26,4 @@ end
 jack = Person.new
 jack.job = "Manager"
 samuel = Person.new
-samuel.job = "Executive Assistance"
+samuel.job = "Executive Assistant"
